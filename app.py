@@ -167,8 +167,8 @@ elif st.session_state.page == "index":
             }
         </style>
         <div class='footer'>
-            <p>Developed by Students of MLSU - Kavish Menaria & Kanishk Pancholi</p>
-            <p>© 2024 TechWayFinder. All rights reserved.</p>
+            <p>Developed by Students of MLSU - Kavish Menaria & Kanishka Pancholi</p>
+            <p>© 2025 TechWayFinder. All rights reserved.</p>
         </div>
     """, unsafe_allow_html=True)
 
